@@ -1,4 +1,4 @@
-# Basket-ball-hook-shot-trainer
+# Basketball-hook-shot-trainer
 UCLA EE180DA/DB project, basket ball hook shot trainer system based on machine learning.
 
 Demo video link:
